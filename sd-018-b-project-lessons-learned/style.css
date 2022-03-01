@@ -1,0 +1,51 @@
+
+body { 
+background-color: rgb(253, 251, 251)
+}
+
+#minha_foto {
+  margin-top: 30px;
+}
+#cabecalho {
+
+    line-height: 0em;
+    margin-top: auto;
+    text-align: center;
+    padding: auto;
+    border: auto;
+    font-family: sans-serif;
+    font-size: 10;
+    color: rgb(2, 173, 116);
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+}
+
+.lado-esquerdo {
+
+    float: left;
+    text-align: justify;
+    width: 500px;
+    text-indent: 0em;
+    
+  }
+
+.lado-direito {
+ 
+    float: right;
+    text-align: justify;
+    width: 500px;
+    
+  }
+
+
+#rodape {
+    float: center;
+    position: relative;
+    text-align: center;
+    top: 120px;
+}
+  
